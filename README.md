@@ -1,4 +1,5 @@
 # Monster-OS
+/*
 
 这只是个小项目
 It's just a small project
@@ -11,3 +12,11 @@ The program is being written, and it will be finished soon.
 
 哈哈，多多指教！
 Haha, please enlighten!
+
+*/
+
+项目暂停！
+Project suspension！
+
+我还是一名中国高二学生，学习任务很多，我会找时间继续完善这个项目。
+I am a Chinese high school student, learning tasks have a lot, I will find time to continue to improve the project.
